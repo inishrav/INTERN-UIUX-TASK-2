@@ -21,10 +21,13 @@ making learning a more engaging and immersive experience.
 
 Tools Used
 Figma: The design tool used to create the entire email newsletter, ensuring a clean, professional, and visually appealing layout.
+
 Key Features
 User-friendly design
 Responsive layout for different email platforms
 Focus on engagement and interaction
 Clear call-to-action buttons to encourage participation
+
 Conclusion
-This project was a valuable learning experience, allowing me to apply my design skills in a real-world context. I am excited to continue my journey with CodSoft and contribute to many more projects in the future.
+This project was a valuable learning experience, allowing me to apply my design skills in a real-world context.
+I am excited to continue my journey with CodSoft and contribute to many more projects in the future.
